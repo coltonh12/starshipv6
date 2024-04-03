@@ -1,6 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://demo.stack.jimmycai.com"
-languageCode = "en-us"
+baseurl = "https://brilliant-longma-a018fd.netlify.app/"
 paginate = 5
 title = "Hugo Theme Stack Starter"
 
